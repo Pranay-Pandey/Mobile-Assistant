@@ -27,6 +27,6 @@ This is a application that will help to manage notifications and ultimately help
 
 ### Todo
 
-- [X] Remove redundant notifications
-- [X] Read aloud notification when clicked on notification in app
+- [ ] Remove redundant notifications
+- [ ] Read aloud notification when clicked on notification in app
 
